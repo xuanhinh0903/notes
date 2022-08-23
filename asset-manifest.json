@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/notes/static/css/main.5c4d7836.css",
+    "main.js": "/notes/static/js/main.1e05cf46.js",
+    "static/js/787.bc3cced5.chunk.js": "/notes/static/js/787.bc3cced5.chunk.js",
+    "static/media/back.png": "/notes/static/media/back.708d01b2586307bfa50f.png",
+    "static/media/dermato.png": "/notes/static/media/dermato.058cef8c7ab2873abce7.png",
+    "static/media/stylist.png": "/notes/static/media/stylist.72d4162255148457799f.png",
+    "static/media/surgeon.png": "/notes/static/media/surgeon.fc9063f96c62f0e742ef.png",
+    "static/media/Footer BG 1.png": "/notes/static/media/Footer BG 1.3a030b44fcd5da1354fc.png",
+    "static/media/Footer BG 2.png": "/notes/static/media/Footer BG 2.b797ccf4a6aa6cf19792.png",
+    "index.html": "/notes/index.html",
+    "main.5c4d7836.css.map": "/notes/static/css/main.5c4d7836.css.map",
+    "main.1e05cf46.js.map": "/notes/static/js/main.1e05cf46.js.map",
+    "787.bc3cced5.chunk.js.map": "/notes/static/js/787.bc3cced5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4d7836.css",
+    "static/js/main.1e05cf46.js"
+  ]
+}
